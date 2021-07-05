@@ -1,10 +1,10 @@
+# Sheet Example
+
+An example project for [Sheet happens. Working with modal views in SwiftUI](https://artemnovichkov.com/blog/sheet-happens) article.
+
 <p align="center">
     <img src="./.github/Logo.png" />
 </p>
-
-# Sheet Example
-
-An example project for [Sheet happens. Working with modal views in SwiftUI](https://blog.artemnovichkov.com/editor/sheet-happens) article.
 
 ## Author
 
