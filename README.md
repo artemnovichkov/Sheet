@@ -2,6 +2,8 @@
 
 An example project for [Sheet happens. Working with modal views in SwiftUI](https://artemnovichkov.com/blog/sheet-happens) article.
 
+[![Build](https://github.com/artemnovichkov/Sheet/actions/workflows/build.yml/badge.svg)](https://github.com/artemnovichkov/Sheet/actions/workflows/build.yml)
+
 <p align="center">
     <img src="./.github/Logo.png" />
 </p>
