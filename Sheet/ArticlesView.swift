@@ -8,7 +8,7 @@ struct ArticlesView: View {
 
     let article: Article = .init(id: .init(),
                                  title: "Sheet happens",
-                                 url: URL(string: "https://blog.artemnovichkov.com/editor/sheet-happens")!)
+                                 url: URL(string: "https://www.artemnovichkov.com/blog/sheet-happens")!)
     
     @State var sheet: Sheet?
     @State var isOn = true
